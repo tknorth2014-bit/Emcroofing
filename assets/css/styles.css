@@ -393,3 +393,8 @@ p { margin: 0 0 1em; }
   .hero-page::before { background: linear-gradient(90deg, rgba(8,17,30,.55) 0%, rgba(8,17,30,.35) 60%, rgba(8,17,30,.45) 100%); }
 }
 @media (max-width: 760px) { .sticky-call { display: flex; } }
+/* Keep the smaller source photos from being enlarged too far */
+@media (min-width: 1025px) {
+  .detail { grid-template-columns: 5fr 6fr; }
+  .detail:nth-child(even) { grid-template-columns: 6fr 5fr; }
+}
