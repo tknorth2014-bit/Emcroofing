@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 124" role="img" aria-label="EMC Roofing LLC">
+  <defs><linearGradient id="rf" x1="0" x2="1"><stop offset="0" stop-color="#4ea3ff"/><stop offset="1" stop-color="#1d74e0"/></linearGradient></defs>
+  <path d="M30 52 105 10l75 42" fill="none" stroke="url(#rf)" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M58 52 105 26l47 26" fill="none" stroke="#13305f" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M150 34V16h11v24" fill="none" stroke="url(#rf)" stroke-width="6" stroke-linejoin="round"/>
+  <text x="105" y="100" text-anchor="middle" font-family="Saira, Arial, sans-serif" font-weight="800" font-size="60" letter-spacing="0" fill="#13305f" font-style="italic">EMC</text>
+  <text x="105" y="121" text-anchor="middle" font-family="Saira, Arial, sans-serif" font-weight="700" font-size="21" letter-spacing="1.5" fill="#13305f">ROOFING LLC</text>
+</svg>
